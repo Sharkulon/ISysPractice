@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\bin\Debug\net6.0\DomainLibBack.deps.json
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\bin\Debug\net6.0\DomainLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\bin\Debug\net6.0\DomainLibBack.pdb
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.AssemblyInfo.cs
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\refint\DomainLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\DomainLibBack.pdb
+C:\Users\user\source\repos\ISysWebAppBack\DomainLibBack\obj\Debug\net6.0\ref\DomainLibBack.dll

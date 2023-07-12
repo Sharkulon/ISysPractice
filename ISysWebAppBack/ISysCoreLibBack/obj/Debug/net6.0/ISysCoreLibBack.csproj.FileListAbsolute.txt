@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\ISysCoreLibBack.deps.json
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\ISysCoreLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\ISysCoreLibBack.pdb
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\DomainLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\ISysDataBaseBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\DomainLibBack.pdb
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\bin\Debug\net6.0\ISysDataBaseBack.pdb
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.AssemblyInfo.cs
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.csproj.CopyComplete
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\refint\ISysCoreLibBack.dll
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ISysCoreLibBack.pdb
+C:\Users\user\source\repos\ISysWebAppBack\ISysCoreLibBack\obj\Debug\net6.0\ref\ISysCoreLibBack.dll
